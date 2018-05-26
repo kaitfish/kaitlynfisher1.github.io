@@ -63,7 +63,7 @@ h6 {
   height: 50px;
   text-align: center;
   color: white;
-  background: rgba(52, 58, 64, 0.5);
+  background: rgba(255, 255, 255, 0.7);
   line-height: 45px;
 }
 
@@ -121,7 +121,7 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #876362;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
